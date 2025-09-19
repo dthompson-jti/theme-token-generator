@@ -1,6 +1,6 @@
+// vite.config.js
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/theme-token-generator/', // must match your repo name
+  base: '/theme-token-generator/', // repo name
 })
-git 
